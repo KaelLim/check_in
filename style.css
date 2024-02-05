@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* 设置高度为视口高度 */
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background: url(background.png) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container {
+    width: 100%; /* 使容器宽度自适应 */
+    max-width: 600px; /* 最大宽度仍为 600px */
+    min-width: 300px; /* 最小宽度设置为 300px */
+    margin: auto; /* 水平居中 */
+    background: #ffffffc2;
+    padding: 40px; /* 增加内边距以产生更多空白 */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+    color: #333333;
+    text-align: center;
+    margin-bottom: 20px; /* 增加与下方内容的间隔 */
+}
+
+.input-field {
+    margin-bottom: 20px; /* 增加输入字段间的间隔 */
+}
+
+.input-field label {
+    display: block; /* 让标签独占一行 */
+    margin-bottom: 5px; /* 标签与输入框间距 */
+    font-size: 16px;
+    color: #666666; /* 设置标签颜色 */
+}
+
+.input-field input,
+.input-field select {
+    width: calc(100% - 24px); /* 宽度为 100% 减去 padding */
+    padding: 12px;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    font-size: 16px;
+    box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+    transition: border-color 0.2s;
+}
+
+.input-field input:focus,
+.input-field select:focus {
+    border-color: #4285f4;
+    outline: none;
+}
+
+.submit-btn {
+    width: 100%;
+    padding: 12px 15px;
+    background-color: #4285f4;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 18px;
+    font-weight: 500;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.submit-btn:hover {
+    background-color: #357ae8;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    .container {
+        width: 80%;
+        padding: 20px;
+    }
+
+    .title {
+        font-size: 20px;
+    }
+    body {
+        background-size: cover;
+        background-position: left;
+        height: 100vh;
+        margin: 0;
+        padding: 0;
+    }
+}
+
+@media (max-width: 500px) {
+    .container {
+        width: 70%;
+        padding: 20px;
+    }
+
+    .title {
+        font-size: 20px;
+    }
+}

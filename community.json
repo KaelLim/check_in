@@ -1,0 +1,2531 @@
+[ 
+            {
+              "community_id": "3",
+              "community_code": "9ed83cdb355741549fd14b6fecf16etw",
+              "parent_community_code": "17pw0jbwa4p0jou4adt5uz7n7kc3y7ik",
+              "level": "2",
+              "title": "中區",
+              "created_at": "2023-12-22 11:07:13",
+              "child": [
+                {
+                  "community_id": "4",
+                  "community_code": "7a9e8359711447ffa277f3b5240b2ftw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "中西和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "5",
+                  "community_code": "8a81958c26a2ab430126c3a3672c02tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "中西和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "6",
+                  "community_code": "71e5287e331a46048ac9b642639c28tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "北中市和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "7",
+                  "community_code": "8a81958c26a2ab430126c311997e02tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "北中市和氣三",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "8",
+                  "community_code": "8a81958c26a2ab430126c31048cd02tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "北中市和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "9",
+                  "community_code": "8a81958c26a2ab430126daf9f45d02tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "北屯和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "10",
+                  "community_code": "8a81958c26a2ab430126dafa9a6f02tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "北屯和氣三",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "11",
+                  "community_code": "8a81958c26a2ab430126dafa456902tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "北屯和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "12",
+                  "community_code": "8a81958c3512bbb70135139590ee00tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "北屯和氣四",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "13",
+                  "community_code": "8a81958c43c8450401445f7232400ftw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "南區一和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "14",
+                  "community_code": "8a81958c43c8450401445f7264880ftw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "南區二和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "15",
+                  "community_code": "14c598797a264a478b013e5a8abd38tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "南屯和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "16",
+                  "community_code": "8a81958c26a2ab430126dae59a6b02tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "南屯和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "17",
+                  "community_code": "8a81958c26a2ab430126e198b22302tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "后里和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "18",
+                  "community_code": "8a81958c26a2ab430126df0c4ff902tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "大里和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "19",
+                  "community_code": "8a81958c26a2ab430126df0c9b2e02tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "大里和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "20",
+                  "community_code": "8a81958c26a2ab430126e177ba1b02tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "大雅和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "21",
+                  "community_code": "8a81958c26a2ab430126df0d897d02tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "太平和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "22",
+                  "community_code": "8a81958c26a2ab430126df0ddb6b02tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "太平和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "23",
+                  "community_code": "8a81958c26a2ab430126e198f78902tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "東勢和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "24",
+                  "community_code": "bddfdbec65e0400e8bacb5d4af2678tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "東區和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "25",
+                  "community_code": "8a81958c43c8450401445f7c81200ftw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "潭子一和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "26",
+                  "community_code": "8a81958c43c8450401445f7ca8980ftw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "潭子二和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "27",
+                  "community_code": "8a81958c26a2ab430126e17768f802tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "潭子和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "28",
+                  "community_code": "8a81958c26a2ab430126df0ce27502tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "烏日和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "29",
+                  "community_code": "8a81958c3512bbb701351399fc5000tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "職志和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "30",
+                  "community_code": "226dfc85b9ef4030a4b22a41c85505tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "西屯和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "31",
+                  "community_code": "8a81958c26a2ab430126daea752402tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "西屯和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "32",
+                  "community_code": "9f50f4d65eef41f0a8adfa444008a6abtw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "豐原和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "33",
+                  "community_code": "8a81958c4b2385c5014b2f51fbd800tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "豐原和氣三",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "34",
+                  "community_code": "8a81958c26a2ab430126e18e887e02tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "豐原和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "35",
+                  "community_code": "8a81958c26a2ab430126df0d3f3002tw",
+                  "parent_community_code": "9ed83cdb355741549fd14b6fecf16etw",
+                  "level": "3",
+                  "title": "霧峰和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                }
+              ]
+            },
+            {
+              "community_id": "36",
+              "community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+              "parent_community_code": "17pw0jbwa4p0jou4adt5uz7n7kc3y7ik",
+              "level": "2",
+              "title": "北一合心",
+              "created_at": "2023-12-22 11:07:13",
+              "child": [
+                {
+                  "community_id": "37",
+                  "community_code": "e91839a2bf5849319ce538e225150dtw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "中山和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "38",
+                  "community_code": "c815afd3568b4a18851f101a5e14f3tw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "中山和氣三",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "39",
+                  "community_code": "8a81958c34b14c550134df38d7f856tw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "中山和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "40",
+                  "community_code": "8a81958c26a2ab430126a2eee80b00tw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "中山和氣四",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "41",
+                  "community_code": "037e00b5fd024fd5804307b1bb3caetw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "中正和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "42",
+                  "community_code": "8a81958c26a2ab430126a2ff062600tw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "中正和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "43",
+                  "community_code": "dfd0b6e3dcc04cd0a860e218b70b61tw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "信義和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "44",
+                  "community_code": "a0adda4be9bd4f5ab50656b14aa04btw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "信義和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "45",
+                  "community_code": "1751f22abe8a4242ba42ee689b2386tw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "內湖和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "46",
+                  "community_code": "99bc2a2c24f34b4ba5a92f3286400atw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "內湖和氣三",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "47",
+                  "community_code": "8a81958c26a2ab430126a301ecfb00tw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "內湖和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "48",
+                  "community_code": "9f0054351e0041fba383449f2d531ctw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "南港和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "49",
+                  "community_code": "63f62650c7c349ddaa4bc284c7aa69tw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "基隆仁愛和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "50",
+                  "community_code": "8a81958c26a2ab430126a2be374100tw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "基隆信義和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "51",
+                  "community_code": "23fe17d5ca0749b5947c7106081c53tw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "基隆安樂和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "52",
+                  "community_code": "e97b25395f4344b68048e027987fd9tw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "大同和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "53",
+                  "community_code": "3e409cf1a74f47bbabe6627d8e0d2ftw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "大安和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "54",
+                  "community_code": "3c9db9318b06481b93643553227a7ftw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "大安和氣三",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "55",
+                  "community_code": "8a81958c26a2ab430126a2c21a0800tw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "大安和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "56",
+                  "community_code": "8a81958c34b14c550134df3d470156tw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "大安和氣四",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "57",
+                  "community_code": "2814aea734a64ab797b09e355a310ctw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "松山和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "58",
+                  "community_code": "8a81958c26a2ab430126a2b41a8f00tw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "松山和氣三",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "59",
+                  "community_code": "7bf0d624974e42369671737766a205tw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "松山和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "60",
+                  "community_code": "8a81958c26a2ab430126a2b4d5c500tw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "松山和氣四",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "61",
+                  "community_code": "da975101553e4d4481cf7dc9758a7btw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "汐止和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "62",
+                  "community_code": "8a81958c34b14c550134df3e39ae56tw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "汐止和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "63",
+                  "community_code": "42ab1203d6c44f2ba1f0238a33a0d2tw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "萬華和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "64",
+                  "community_code": "8a81958c26a2ab430126a2b672e000tw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "萬華和氣三",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "65",
+                  "community_code": "8a81958c26a2ab430126a2b5f17c00tw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "萬華和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "66",
+                  "community_code": "8a81958c26a2ab430126a2b704e600tw",
+                  "parent_community_code": "f5051c325b7647b8b56c3f21b733a1tw",
+                  "level": "3",
+                  "title": "萬華和氣四",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                }
+              ]
+            },
+            {
+              "community_id": "67",
+              "community_code": "684132b3cd044aa5aaea117a30664btw",
+              "parent_community_code": "17pw0jbwa4p0jou4adt5uz7n7kc3y7ik",
+              "level": "2",
+              "title": "北三合心",
+              "created_at": "2023-12-22 11:07:13",
+              "child": [
+                {
+                  "community_id": "68",
+                  "community_code": "c1d077c1de7e4412bbea260d37a69etw",
+                  "parent_community_code": "684132b3cd044aa5aaea117a30664btw",
+                  "level": "3",
+                  "title": "三重和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "69",
+                  "community_code": "8a81958c26a2ab430126a2c3bbdb00tw",
+                  "parent_community_code": "684132b3cd044aa5aaea117a30664btw",
+                  "level": "3",
+                  "title": "三重和氣三",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "70",
+                  "community_code": "6d7c78e5ca0846598d9dd1763b599btw",
+                  "parent_community_code": "684132b3cd044aa5aaea117a30664btw",
+                  "level": "3",
+                  "title": "三重和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "71",
+                  "community_code": "8a81958c26a2ab430126a2c7025d00tw",
+                  "parent_community_code": "684132b3cd044aa5aaea117a30664btw",
+                  "level": "3",
+                  "title": "三重和氣四",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "72",
+                  "community_code": "b9924dc02fd54007a821fe30856c54tw",
+                  "parent_community_code": "684132b3cd044aa5aaea117a30664btw",
+                  "level": "3",
+                  "title": "北投和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "73",
+                  "community_code": "45542fd32aea4611865e3031cda728tw",
+                  "parent_community_code": "684132b3cd044aa5aaea117a30664btw",
+                  "level": "3",
+                  "title": "北投和氣三",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "74",
+                  "community_code": "8a81958c26a2ab430126a3032acc00tw",
+                  "parent_community_code": "684132b3cd044aa5aaea117a30664btw",
+                  "level": "3",
+                  "title": "北投和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "75",
+                  "community_code": "8a81958c26a2ab430126a306f16e00tw",
+                  "parent_community_code": "684132b3cd044aa5aaea117a30664btw",
+                  "level": "3",
+                  "title": "北投和氣四",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "76",
+                  "community_code": "b8fc603a22e64164b091c604ad0e2dtw",
+                  "parent_community_code": "684132b3cd044aa5aaea117a30664btw",
+                  "level": "3",
+                  "title": "士林和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "77",
+                  "community_code": "3cd574bd371d46878208e063acc428tw",
+                  "parent_community_code": "684132b3cd044aa5aaea117a30664btw",
+                  "level": "3",
+                  "title": "士林和氣三",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "78",
+                  "community_code": "8a81958c34b14c550134df42502157tw",
+                  "parent_community_code": "684132b3cd044aa5aaea117a30664btw",
+                  "level": "3",
+                  "title": "士林和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "79",
+                  "community_code": "8a81958c34b14c550134df42991e57tw",
+                  "parent_community_code": "684132b3cd044aa5aaea117a30664btw",
+                  "level": "3",
+                  "title": "士林和氣四",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "80",
+                  "community_code": "f030ca20ff4349d4a6126dd94fa327tw",
+                  "parent_community_code": "684132b3cd044aa5aaea117a30664btw",
+                  "level": "3",
+                  "title": "新泰和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "81",
+                  "community_code": "332d79fde8564c1bbff1feb420da1atw",
+                  "parent_community_code": "684132b3cd044aa5aaea117a30664btw",
+                  "level": "3",
+                  "title": "新泰和氣三",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "82",
+                  "community_code": "8a81958c26a2ab430126a308cf0500tw",
+                  "parent_community_code": "684132b3cd044aa5aaea117a30664btw",
+                  "level": "3",
+                  "title": "新泰和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "83",
+                  "community_code": "886869ee95d34896ab90b59ffff458tw",
+                  "parent_community_code": "684132b3cd044aa5aaea117a30664btw",
+                  "level": "3",
+                  "title": "新泰和氣五",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "84",
+                  "community_code": "8a81958c43c8450401445fb0bc700ftw",
+                  "parent_community_code": "684132b3cd044aa5aaea117a30664btw",
+                  "level": "3",
+                  "title": "新泰和氣四",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "85",
+                  "community_code": "77c35cfed74a4b74bd675f669ae9catw",
+                  "parent_community_code": "684132b3cd044aa5aaea117a30664btw",
+                  "level": "3",
+                  "title": "淡水和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "86",
+                  "community_code": "8a81958c26a2ab430126a2ba5dac00tw",
+                  "parent_community_code": "684132b3cd044aa5aaea117a30664btw",
+                  "level": "3",
+                  "title": "淡水和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "87",
+                  "community_code": "9fb9c18e6138433eaa6e6cccf89c0ctw",
+                  "parent_community_code": "684132b3cd044aa5aaea117a30664btw",
+                  "level": "3",
+                  "title": "蘆洲和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "88",
+                  "community_code": "8a81958c26a2ab430126a2b8ed2700tw",
+                  "parent_community_code": "684132b3cd044aa5aaea117a30664btw",
+                  "level": "3",
+                  "title": "蘆洲和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                }
+              ]
+            },
+            {
+              "community_id": "89",
+              "community_code": "ee42b2f429a940ff8383a577f2aebctw",
+              "parent_community_code": "17pw0jbwa4p0jou4adt5uz7n7kc3y7ik",
+              "level": "2",
+              "title": "北二合心",
+              "created_at": "2023-12-22 11:07:13",
+              "child": [
+                {
+                  "community_id": "90",
+                  "community_code": "8a81958c26a2ab430126a2e265b600tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "三峽和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "91",
+                  "community_code": "e45cfd36dfcd416980b45df8702d2dtw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "土城和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "92",
+                  "community_code": "8a81958c34b14c550134df43a8a057tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "土城和氣三",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "93",
+                  "community_code": "8a81958c34b14c550134df4380cf57tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "土城和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "94",
+                  "community_code": "acfc765adc874691ba8a091d55861dtw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "文山和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "95",
+                  "community_code": "8a81958c34b14c550134df3f32fc56tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "文山和氣三",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "96",
+                  "community_code": "8a81958c26a2ab430126a2c81e3400tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "文山和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "97",
+                  "community_code": "781210e5fca841febd00c08323d5d3tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "新店和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "98",
+                  "community_code": "8a81958c26a2ab430126a2c9a69e00tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "新店和氣三",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "99",
+                  "community_code": "8a81958c26a2ab430126a2c91ebe00tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "新店和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "100",
+                  "community_code": "cc916052ea4648919dc8253341c1eatw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "板橋大觀和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "101",
+                  "community_code": "8a81958c26a2ab430126a2cb58ae00tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "板橋大觀和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "102",
+                  "community_code": "0bc61dd4f4bf48958ba1723f70084etw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "板橋後埔和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "103",
+                  "community_code": "8a81958c26a2ab430126a2cc77c600tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "板橋後埔和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "104",
+                  "community_code": "fe3d882e58b04c6ea330ed42497cc3tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "板橋新埔和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "105",
+                  "community_code": "8a81958c26a2ab430126a2cd5efe00tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "板橋新埔和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "106",
+                  "community_code": "b68cd8560b1c4ef785ae0e6a57079btw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "板橋江翠和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "107",
+                  "community_code": "8a81958c26a2ab430126a2ce91b600tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "板橋江翠和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "108",
+                  "community_code": "36ba7771bf47439ca5e89e589eb35ctw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "樹林和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "109",
+                  "community_code": "8a81958c34b14c550134df44318057tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "樹林和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "110",
+                  "community_code": "37ce9fb05fb04127a315568db49fa7tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "澎湖和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "111",
+                  "community_code": "d4d2cf4784714cd7b58a853b999af4tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "金門和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "112",
+                  "community_code": "8a81958c26a2ab430126a2e6e67500tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "雙和中和和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "113",
+                  "community_code": "3dfc310ec289430fbff5584027c6f8tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "雙和中和和氣三",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "114",
+                  "community_code": "458e38b941ea403e96be9d16e814fetw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "雙和中和和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "115",
+                  "community_code": "8a81958c26a2ab430126a2e6736500tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "雙和中和和氣四",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "116",
+                  "community_code": "f5e808322da8410a89308bdbd69e88tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "雙和永和和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "117",
+                  "community_code": "84552d82769343259dc9f0889114a0tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "雙和永和和氣三",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "118",
+                  "community_code": "8a81958c26a2ab430126a2e92b0100tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "雙和永和和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "119",
+                  "community_code": "8a81958c26a2ab430126a2ea510500tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "雙和永和和氣四",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "120",
+                  "community_code": "ff8080821f8c24ea011f9379135900tw",
+                  "parent_community_code": "ee42b2f429a940ff8383a577f2aebctw",
+                  "level": "3",
+                  "title": "馬祖和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                }
+              ]
+            },
+            {
+              "community_id": "121",
+              "community_code": "802dd5c74fee49f98bab4800821558tw",
+              "parent_community_code": "17pw0jbwa4p0jou4adt5uz7n7kc3y7ik",
+              "level": "2",
+              "title": "南投",
+              "created_at": "2023-12-22 11:07:13",
+              "child": [
+                {
+                  "community_id": "122",
+                  "community_code": "74283dcca8c541939cfeefbd9d7195tw",
+                  "parent_community_code": "802dd5c74fee49f98bab4800821558tw",
+                  "level": "3",
+                  "title": "南投和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "123",
+                  "community_code": "5c703fbfa6bd4c02a4cbb317e9f0f3tw",
+                  "parent_community_code": "802dd5c74fee49f98bab4800821558tw",
+                  "level": "3",
+                  "title": "埔里和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "124",
+                  "community_code": "8a81958c2d012f5a012d02e431cc00tw",
+                  "parent_community_code": "802dd5c74fee49f98bab4800821558tw",
+                  "level": "3",
+                  "title": "竹山和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "125",
+                  "community_code": "ff8080821f8c24ea011fa1cc58fc00tw",
+                  "parent_community_code": "802dd5c74fee49f98bab4800821558tw",
+                  "level": "3",
+                  "title": "草屯和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                }
+              ]
+            },
+            {
+              "community_id": "126",
+              "community_code": "834ea2a7c7d54a25aae04fee90c87btw",
+              "parent_community_code": "17pw0jbwa4p0jou4adt5uz7n7kc3y7ik",
+              "level": "2",
+              "title": "台中港",
+              "created_at": "2023-12-22 11:07:13",
+              "child": [
+                {
+                  "community_id": "127",
+                  "community_code": "f129ffd3d30042798abc9aa3f72617tw",
+                  "parent_community_code": "834ea2a7c7d54a25aae04fee90c87btw",
+                  "level": "3",
+                  "title": "大甲和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "128",
+                  "community_code": "8a81958c3512bbb70135139996f300tw",
+                  "parent_community_code": "834ea2a7c7d54a25aae04fee90c87btw",
+                  "level": "3",
+                  "title": "梧棲和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "129",
+                  "community_code": "8a81958c26a2ab430126e1aeafcd02tw",
+                  "parent_community_code": "834ea2a7c7d54a25aae04fee90c87btw",
+                  "level": "3",
+                  "title": "沙鹿和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "130",
+                  "community_code": "8a81958c26a2ab430126e1bc30e203tw",
+                  "parent_community_code": "834ea2a7c7d54a25aae04fee90c87btw",
+                  "level": "3",
+                  "title": "清水和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "131",
+                  "community_code": "8a81958c26a2ab430126e1b4f5db03tw",
+                  "parent_community_code": "834ea2a7c7d54a25aae04fee90c87btw",
+                  "level": "3",
+                  "title": "龍井和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                }
+              ]
+            },
+            {
+              "community_id": "132",
+              "community_code": "8d51c795b44d4a6aa578455eacdb51tw",
+              "parent_community_code": "17pw0jbwa4p0jou4adt5uz7n7kc3y7ik",
+              "level": "2",
+              "title": "台南",
+              "created_at": "2023-12-22 11:07:13",
+              "child": [
+                {
+                  "community_id": "133",
+                  "community_code": "f205dc9999cd43409ad6e2f2981e92tw",
+                  "parent_community_code": "8d51c795b44d4a6aa578455eacdb51tw",
+                  "level": "3",
+                  "title": "仁德和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "134",
+                  "community_code": "4ea04e73f29e4664b0fedd6222ac9dtw",
+                  "parent_community_code": "8d51c795b44d4a6aa578455eacdb51tw",
+                  "level": "3",
+                  "title": "佳里和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "135",
+                  "community_code": "8a81958c43c8450401446328ca1b10tw",
+                  "parent_community_code": "8d51c795b44d4a6aa578455eacdb51tw",
+                  "level": "3",
+                  "title": "北區和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "136",
+                  "community_code": "5b082f96bdd441f1b84cdd30decbd0tw",
+                  "parent_community_code": "8d51c795b44d4a6aa578455eacdb51tw",
+                  "level": "3",
+                  "title": "善化和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "137",
+                  "community_code": "8a81958c26a2ab430126f6061e5a03tw",
+                  "parent_community_code": "8d51c795b44d4a6aa578455eacdb51tw",
+                  "level": "3",
+                  "title": "大橋和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "138",
+                  "community_code": "8a81958c3512bbb7013513bbe41700tw",
+                  "parent_community_code": "8d51c795b44d4a6aa578455eacdb51tw",
+                  "level": "3",
+                  "title": "學甲和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "139",
+                  "community_code": "96f44690f8d949c18f936d0dede13ftw",
+                  "parent_community_code": "8d51c795b44d4a6aa578455eacdb51tw",
+                  "level": "3",
+                  "title": "安南和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "140",
+                  "community_code": "8a81958c43c8450401445f6963690ftw",
+                  "parent_community_code": "8d51c795b44d4a6aa578455eacdb51tw",
+                  "level": "3",
+                  "title": "安平和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "141",
+                  "community_code": "8a81958c26a2ab430126f5f65dc103tw",
+                  "parent_community_code": "8d51c795b44d4a6aa578455eacdb51tw",
+                  "level": "3",
+                  "title": "市中和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "142",
+                  "community_code": "fd58a185f5cf48989a030cd52dac26tw",
+                  "parent_community_code": "8d51c795b44d4a6aa578455eacdb51tw",
+                  "level": "3",
+                  "title": "市南和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "143",
+                  "community_code": "ac2820a6a2494d7085f1e239114cddtw",
+                  "parent_community_code": "8d51c795b44d4a6aa578455eacdb51tw",
+                  "level": "3",
+                  "title": "新化和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "144",
+                  "community_code": "95d71e1282b445b0aaaaa4d9ab5f15tw",
+                  "parent_community_code": "8d51c795b44d4a6aa578455eacdb51tw",
+                  "level": "3",
+                  "title": "新營和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "145",
+                  "community_code": "8a81958c3512bbb7013513bc240a00tw",
+                  "parent_community_code": "8d51c795b44d4a6aa578455eacdb51tw",
+                  "level": "3",
+                  "title": "曾文和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "146",
+                  "community_code": "e6f5a842aaa5446c9855b8089ddb1ctw",
+                  "parent_community_code": "8d51c795b44d4a6aa578455eacdb51tw",
+                  "level": "3",
+                  "title": "東一和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "147",
+                  "community_code": "8a81958c26a2ab430126f619b2d003tw",
+                  "parent_community_code": "8d51c795b44d4a6aa578455eacdb51tw",
+                  "level": "3",
+                  "title": "東二和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "148",
+                  "community_code": "8a81958c26a2ab430126f637233704tw",
+                  "parent_community_code": "8d51c795b44d4a6aa578455eacdb51tw",
+                  "level": "3",
+                  "title": "歸仁和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "149",
+                  "community_code": "71eb6eb77759417caccfdaeee282datw",
+                  "parent_community_code": "8d51c795b44d4a6aa578455eacdb51tw",
+                  "level": "3",
+                  "title": "永康和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                }
+              ]
+            },
+            {
+              "community_id": "150",
+              "community_code": "e56021c8000a4014b43851e6ae94e4tw",
+              "parent_community_code": "17pw0jbwa4p0jou4adt5uz7n7kc3y7ik",
+              "level": "2",
+              "title": "嘉義",
+              "created_at": "2023-12-22 11:07:13",
+              "child": [
+                {
+                  "community_id": "151",
+                  "community_code": "e55c0246f24c4602915996d9c62cfatw",
+                  "parent_community_code": "e56021c8000a4014b43851e6ae94e4tw",
+                  "level": "3",
+                  "title": "嘉義東區一和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "152",
+                  "community_code": "8a81958c2702a03f012702cd0e7600tw",
+                  "parent_community_code": "e56021c8000a4014b43851e6ae94e4tw",
+                  "level": "3",
+                  "title": "嘉義東區二和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "153",
+                  "community_code": "7029c0513f8445dcab5dc5f9959a0ftw",
+                  "parent_community_code": "e56021c8000a4014b43851e6ae94e4tw",
+                  "level": "3",
+                  "title": "嘉義西區一和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "154",
+                  "community_code": "8a81958c2702a03f012702cd44e500tw",
+                  "parent_community_code": "e56021c8000a4014b43851e6ae94e4tw",
+                  "level": "3",
+                  "title": "嘉義西區二和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "155",
+                  "community_code": "c5f3fc4091f64f78975a71aaa65efdtw",
+                  "parent_community_code": "e56021c8000a4014b43851e6ae94e4tw",
+                  "level": "3",
+                  "title": "大林和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "156",
+                  "community_code": "8a81958c2702a03f012702cd7c0500tw",
+                  "parent_community_code": "e56021c8000a4014b43851e6ae94e4tw",
+                  "level": "3",
+                  "title": "大林慈院職志和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "157",
+                  "community_code": "623cc8ce48d442cfbb2ddfa921e20btw",
+                  "parent_community_code": "e56021c8000a4014b43851e6ae94e4tw",
+                  "level": "3",
+                  "title": "民雄和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                }
+              ]
+            },
+            {
+              "community_id": "158",
+              "community_code": "e3cf5aebb55f47a2b6b4e7be635382tw",
+              "parent_community_code": "17pw0jbwa4p0jou4adt5uz7n7kc3y7ik",
+              "level": "2",
+              "title": "宜蘭",
+              "created_at": "2023-12-22 11:07:13",
+              "child": [
+                {
+                  "community_id": "159",
+                  "community_code": "4c182976266e4ff3bc7497b2ead289tw",
+                  "parent_community_code": "e3cf5aebb55f47a2b6b4e7be635382tw",
+                  "level": "3",
+                  "title": "宜蘭和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "160",
+                  "community_code": "ce54a79a70ac47029f456b1f67cb16tw",
+                  "parent_community_code": "e3cf5aebb55f47a2b6b4e7be635382tw",
+                  "level": "3",
+                  "title": "宜蘭和氣三",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "161",
+                  "community_code": "8a81958c2702a03f012702d3d7cd00tw",
+                  "parent_community_code": "e3cf5aebb55f47a2b6b4e7be635382tw",
+                  "level": "3",
+                  "title": "宜蘭和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "162",
+                  "community_code": "8a81958c2702a03f012702d40e2f00tw",
+                  "parent_community_code": "e3cf5aebb55f47a2b6b4e7be635382tw",
+                  "level": "3",
+                  "title": "宜蘭和氣四",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                }
+              ]
+            },
+            {
+              "community_id": "163",
+              "community_code": "89ddba6110e74584a0685ba662aeb5tw",
+              "parent_community_code": "17pw0jbwa4p0jou4adt5uz7n7kc3y7ik",
+              "level": "2",
+              "title": "屏東",
+              "created_at": "2023-12-22 11:07:13",
+              "child": [
+                {
+                  "community_id": "164",
+                  "community_code": "8a81958c26a2ab430126b6e35a6c00tw",
+                  "parent_community_code": "89ddba6110e74584a0685ba662aeb5tw",
+                  "level": "3",
+                  "title": "屏市北區和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "165",
+                  "community_code": "d70a634dd6fe4288ba9129e3492ca3tw",
+                  "parent_community_code": "89ddba6110e74584a0685ba662aeb5tw",
+                  "level": "3",
+                  "title": "屏市南區和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "166",
+                  "community_code": "8a81958c43c8450401445dfcbd8b0etw",
+                  "parent_community_code": "89ddba6110e74584a0685ba662aeb5tw",
+                  "level": "3",
+                  "title": "屏市東區和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "167",
+                  "community_code": "8a81958c43c8450401445e0099fe0etw",
+                  "parent_community_code": "89ddba6110e74584a0685ba662aeb5tw",
+                  "level": "3",
+                  "title": "屏市西區和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "168",
+                  "community_code": "1340f9ccfbb84074802ac92be917bctw",
+                  "parent_community_code": "89ddba6110e74584a0685ba662aeb5tw",
+                  "level": "3",
+                  "title": "屏東分會",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "169",
+                  "community_code": "41ebedf1633e44baaf71017c8f2ac3fftw",
+                  "parent_community_code": "89ddba6110e74584a0685ba662aeb5tw",
+                  "level": "3",
+                  "title": "東港新園和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "170",
+                  "community_code": "8a81958c26a2ab430126b6de854400tw",
+                  "parent_community_code": "89ddba6110e74584a0685ba662aeb5tw",
+                  "level": "3",
+                  "title": "林邊恆春和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "171",
+                  "community_code": "8a81958c26a2ab430126b6e2f27a00tw",
+                  "parent_community_code": "89ddba6110e74584a0685ba662aeb5tw",
+                  "level": "3",
+                  "title": "潮州和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "172",
+                  "community_code": "05752d5d80c6453f9288c7972d0d75tw",
+                  "parent_community_code": "89ddba6110e74584a0685ba662aeb5tw",
+                  "level": "3",
+                  "title": "里港鹽埔和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                }
+              ]
+            },
+            {
+              "community_id": "173",
+              "community_code": "7620e787b1aa47b88001de6dba27b9tw",
+              "parent_community_code": "17pw0jbwa4p0jou4adt5uz7n7kc3y7ik",
+              "level": "2",
+              "title": "彰化",
+              "created_at": "2023-12-22 11:07:13",
+              "child": [
+                {
+                  "community_id": "174",
+                  "community_code": "9375d14523fe4108bec20c654c9389tw",
+                  "parent_community_code": "7620e787b1aa47b88001de6dba27b9tw",
+                  "level": "3",
+                  "title": "和美區和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "175",
+                  "community_code": "4efd623911274daba8caf63eb1a483tw",
+                  "parent_community_code": "7620e787b1aa47b88001de6dba27b9tw",
+                  "level": "3",
+                  "title": "員林和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "176",
+                  "community_code": "8a81958c43c845040144722c41bb10tw",
+                  "parent_community_code": "7620e787b1aa47b88001de6dba27b9tw",
+                  "level": "3",
+                  "title": "員林和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "177",
+                  "community_code": "8a81958c2d012f5a012d02f0874600tw",
+                  "parent_community_code": "7620e787b1aa47b88001de6dba27b9tw",
+                  "level": "3",
+                  "title": "埤頭區和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "178",
+                  "community_code": "3dc23ea6a87747a6a62a8cbbd756d5tw",
+                  "parent_community_code": "7620e787b1aa47b88001de6dba27b9tw",
+                  "level": "3",
+                  "title": "彰市和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "179",
+                  "community_code": "8a81958c2d012f5a012d02efa57200tw",
+                  "parent_community_code": "7620e787b1aa47b88001de6dba27b9tw",
+                  "level": "3",
+                  "title": "彰市和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "180",
+                  "community_code": "54dc80e73ad64b41bf7e53f5b8f2cctw",
+                  "parent_community_code": "7620e787b1aa47b88001de6dba27b9tw",
+                  "level": "3",
+                  "title": "永靖和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "181",
+                  "community_code": "6bec950de17841e89c71aec2db4097tw",
+                  "parent_community_code": "7620e787b1aa47b88001de6dba27b9tw",
+                  "level": "3",
+                  "title": "溪湖和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "182",
+                  "community_code": "8a81958c2d012f5a012d02f06a3f00tw",
+                  "parent_community_code": "7620e787b1aa47b88001de6dba27b9tw",
+                  "level": "3",
+                  "title": "田中區和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "183",
+                  "community_code": "8a81958c2d012f5a012d02f0046700tw",
+                  "parent_community_code": "7620e787b1aa47b88001de6dba27b9tw",
+                  "level": "3",
+                  "title": "秀水區和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "184",
+                  "community_code": "8a81958c43c8450401447229d88010tw",
+                  "parent_community_code": "7620e787b1aa47b88001de6dba27b9tw",
+                  "level": "3",
+                  "title": "鹿港和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                }
+              ]
+            },
+            {
+              "community_id": "185",
+              "community_code": "f0b823c577fd4b8fbb97bac56322bbtw",
+              "parent_community_code": "17pw0jbwa4p0jou4adt5uz7n7kc3y7ik",
+              "level": "2",
+              "title": "新竹",
+              "created_at": "2023-12-22 11:07:13",
+              "child": [
+                {
+                  "community_id": "186",
+                  "community_code": "8a81958c3512bbb7013512d3bcda00tw",
+                  "parent_community_code": "f0b823c577fd4b8fbb97bac56322bbtw",
+                  "level": "3",
+                  "title": "新竹竹南和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "187",
+                  "community_code": "f78a8d872a28421885379c9bbe3ccdtw",
+                  "parent_community_code": "f0b823c577fd4b8fbb97bac56322bbtw",
+                  "level": "3",
+                  "title": "竹市北區和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "188",
+                  "community_code": "9d72fe10efc043daa2e66246d7cb11tw",
+                  "parent_community_code": "f0b823c577fd4b8fbb97bac56322bbtw",
+                  "level": "3",
+                  "title": "竹市東區和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "189",
+                  "community_code": "8a81958c3512bbb7013512d41b1200tw",
+                  "parent_community_code": "f0b823c577fd4b8fbb97bac56322bbtw",
+                  "level": "3",
+                  "title": "竹市竹科和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "190",
+                  "community_code": "8a81958c3512bbb7013512d394fa00tw",
+                  "parent_community_code": "f0b823c577fd4b8fbb97bac56322bbtw",
+                  "level": "3",
+                  "title": "竹市香山和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "191",
+                  "community_code": "8a81958c3512bbb7013512d461f700tw",
+                  "parent_community_code": "f0b823c577fd4b8fbb97bac56322bbtw",
+                  "level": "3",
+                  "title": "竹縣新湖和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "192",
+                  "community_code": "8a81958c3512bbb7013512d43d4700tw",
+                  "parent_community_code": "f0b823c577fd4b8fbb97bac56322bbtw",
+                  "level": "3",
+                  "title": "竹縣竹北和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "193",
+                  "community_code": "8a81958c3512bbb7013512d491ed00tw",
+                  "parent_community_code": "f0b823c577fd4b8fbb97bac56322bbtw",
+                  "level": "3",
+                  "title": "竹縣竹東和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                }
+              ]
+            },
+            {
+              "community_id": "194",
+              "community_code": "98059993e69540b1bd02ab53a051actw",
+              "parent_community_code": "17pw0jbwa4p0jou4adt5uz7n7kc3y7ik",
+              "level": "2",
+              "title": "桃園",
+              "created_at": "2023-12-22 11:07:13",
+              "child": [
+                {
+                  "community_id": "195",
+                  "community_code": "f6cb813c6ef54dc78fb1d0ddbe9d49tw",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "中壢和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "196",
+                  "community_code": "8a81958c2d012f5a012d02dc910700tw",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "中正和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "197",
+                  "community_code": "8a81958c26a2ab430126e6b2cd8d03tw",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "中路和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "198",
+                  "community_code": "71da33963b814ad4a2dfc7d5f6e3e4tw",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "五福和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "199",
+                  "community_code": "f66f1bca28454559abcf1659085ab3tw",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "八德和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "200",
+                  "community_code": "8a81958c2d012f5a012d02dcbed400tw",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "同安和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "201",
+                  "community_code": "b3c5516e5b6e452d90e6f0a654a302tw",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "同德和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "202",
+                  "community_code": "8a81958c4b52481a014b5883098e00tw",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "和平和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "203",
+                  "community_code": "ba623c9918c544d4823c7f7891849atw",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "大園和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "204",
+                  "community_code": "8a81958c4b52481a014b5884080a00tw",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "大溪和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "205",
+                  "community_code": "18b505e9074d4f89bdd1dbe34422d4tw",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "寶山和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "206",
+                  "community_code": "e230682de8e64a00a87d4573f3d476tw",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "平鎮和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "207",
+                  "community_code": "8a818c04532f874901532fd59f7a00tw",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "新觀和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "208",
+                  "community_code": "30240e5b96d94b0582e13941e5afdetw",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "桃鶯和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "209",
+                  "community_code": "8a81958c2d012f5a012d02dd428a0001",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "楊龍和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "210",
+                  "community_code": "8a81958c2d012f5a012d02dd428a00tw",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "楊梅和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "211",
+                  "community_code": "0aec50499266471d90e05744f75b4dtw",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "環中和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "212",
+                  "community_code": "5ea31d63f3b2431fbb04bae62effb9tw",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "蘆竹和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "213",
+                  "community_code": "145cdb5e77c547c5910a1343bf4dfftw",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "青溪和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "214",
+                  "community_code": "8a81958c4b52481a014b5882d66e00tw",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "鶯歌和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "215",
+                  "community_code": "d972b0a95b0c4f0f89745fa9e4be8ctw",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "龍安和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "216",
+                  "community_code": "8a81958c2d012f5a012d02dd15ed00tw",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "龍岡和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "217",
+                  "community_code": "dc1b515f49b04589b3af6a275f5381tw",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "龍潭和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "218",
+                  "community_code": "8a81958c2d012f5a012d02dc707600tw",
+                  "parent_community_code": "98059993e69540b1bd02ab53a051actw",
+                  "level": "3",
+                  "title": "龜山和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                }
+              ]
+            },
+            {
+              "community_id": "219",
+              "community_code": "60b05509402243d282032bd694cbf4tw",
+              "parent_community_code": "17pw0jbwa4p0jou4adt5uz7n7kc3y7ik",
+              "level": "2",
+              "title": "花東",
+              "created_at": "2023-12-22 11:07:13",
+              "child": [
+                {
+                  "community_id": "220",
+                  "community_code": "3b194feef80f4ef19cacc64a43c275tw",
+                  "parent_community_code": "60b05509402243d282032bd694cbf4tw",
+                  "level": "3",
+                  "title": "台東和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "221",
+                  "community_code": "8a81958c3512bbb7013513dc6e3f01tw",
+                  "parent_community_code": "60b05509402243d282032bd694cbf4tw",
+                  "level": "3",
+                  "title": "吉安和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "222",
+                  "community_code": "bc1095605f7f4103b90a14fa40110etw",
+                  "parent_community_code": "60b05509402243d282032bd694cbf4tw",
+                  "level": "3",
+                  "title": "國富和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "223",
+                  "community_code": "8a81958c3512bbb7013513dc0baf01tw",
+                  "parent_community_code": "60b05509402243d282032bd694cbf4tw",
+                  "level": "3",
+                  "title": "國新和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "224",
+                  "community_code": "042e36b65d7b4246b9d4da17a58b02tw",
+                  "parent_community_code": "60b05509402243d282032bd694cbf4tw",
+                  "level": "3",
+                  "title": "玉里和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "225",
+                  "community_code": "63b68f70b710435b9fa59af7cb2b31tw",
+                  "parent_community_code": "60b05509402243d282032bd694cbf4tw",
+                  "level": "3",
+                  "title": "福安和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "226",
+                  "community_code": "ee208548557e4b1d9fc142a5009badtw",
+                  "parent_community_code": "60b05509402243d282032bd694cbf4tw",
+                  "level": "3",
+                  "title": "職志慈醫和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "227",
+                  "community_code": "8a81958c3512bbb7013513dcad4001tw",
+                  "parent_community_code": "60b05509402243d282032bd694cbf4tw",
+                  "level": "3",
+                  "title": "職志文教和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                }
+              ]
+            },
+            {
+              "community_id": "228",
+              "community_code": "4fc0dd765f48420aa793d983057ef3tw",
+              "parent_community_code": "17pw0jbwa4p0jou4adt5uz7n7kc3y7ik",
+              "level": "2",
+              "title": "苗栗",
+              "created_at": "2023-12-22 11:07:13",
+              "child": [
+                {
+                  "community_id": "229",
+                  "community_code": "5818f35501ce4418ac6dc982dc7213tw",
+                  "parent_community_code": "4fc0dd765f48420aa793d983057ef3tw",
+                  "level": "3",
+                  "title": "苗栗和氣一",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "230",
+                  "community_code": "8a818c04533019f7015330359c9000tw",
+                  "parent_community_code": "4fc0dd765f48420aa793d983057ef3tw",
+                  "level": "3",
+                  "title": "苗栗和氣三",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "231",
+                  "community_code": "8a81958c26a2ab430126e220e9f703tw",
+                  "parent_community_code": "4fc0dd765f48420aa793d983057ef3tw",
+                  "level": "3",
+                  "title": "苗栗和氣二",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                }
+              ]
+            },
+            {
+              "community_id": "232",
+              "community_code": "d321d69474e842c6ae6d37e42a6f2ctw",
+              "parent_community_code": "17pw0jbwa4p0jou4adt5uz7n7kc3y7ik",
+              "level": "2",
+              "title": "雲林",
+              "created_at": "2023-12-22 11:07:13",
+              "child": [
+                {
+                  "community_id": "233",
+                  "community_code": "8a81958c3512bbb7013513a986f800tw",
+                  "parent_community_code": "d321d69474e842c6ae6d37e42a6f2ctw",
+                  "level": "3",
+                  "title": "北港和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "234",
+                  "community_code": "8a81958c3512bbb7013513a8d52b00tw",
+                  "parent_community_code": "d321d69474e842c6ae6d37e42a6f2ctw",
+                  "level": "3",
+                  "title": "斗六和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "235",
+                  "community_code": "8a81958c3512bbb7013513a93eb200tw",
+                  "parent_community_code": "d321d69474e842c6ae6d37e42a6f2ctw",
+                  "level": "3",
+                  "title": "斗南和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "236",
+                  "community_code": "8a81958c3512bbb7013513a9658e00tw",
+                  "parent_community_code": "d321d69474e842c6ae6d37e42a6f2ctw",
+                  "level": "3",
+                  "title": "虎尾和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "237",
+                  "community_code": "8a81958c3512bbb7013513a9181500tw",
+                  "parent_community_code": "d321d69474e842c6ae6d37e42a6f2ctw",
+                  "level": "3",
+                  "title": "西螺和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                }
+              ]
+            },
+            {
+              "community_id": "238",
+              "community_code": "b3d65695761749e993b26e0909efa3tw",
+              "parent_community_code": "17pw0jbwa4p0jou4adt5uz7n7kc3y7ik",
+              "level": "2",
+              "title": "高雄",
+              "created_at": "2023-12-22 11:07:13",
+              "child": [
+                {
+                  "community_id": "239",
+                  "community_code": "8a81958c2d7cad12012d7d15332f00tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "三民十全和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "240",
+                  "community_code": "8a81958c2d7cad12012d7d14f29000tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "三民博愛和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "241",
+                  "community_code": "8a81958c2d7cad12012d7d149e1800tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "三民寶興和氣",
+                  "created_at": "2023-12-22 11:07:13",
+                  "child": []
+                },
+                {
+                  "community_id": "242",
+                  "community_code": "d63d79d8381649efbf6fa50f04b07ctw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "三民本館和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "243",
+                  "community_code": "8a81958c2d7cad12012d7d14cc4600tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "三民正興和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "244",
+                  "community_code": "22a67f2fdbc24022be86e10149725dtw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "三民陽明和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "245",
+                  "community_code": "3c2ce00037ae435f8cd4e16c777311tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "三民鼎金和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "246",
+                  "community_code": "0f0bdaced263497d8836cb82ec57b0tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "仁武和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "247",
+                  "community_code": "99abdacf85b8422f9df2a3234af540tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "前鎮一和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "248",
+                  "community_code": "8a81958c2d7cad12012d7d6e255700tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "前鎮二和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "249",
+                  "community_code": "8a81958c2d7cad12012d7d0f093400tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "右昌和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "250",
+                  "community_code": "4ad381706d874dff9908b29a7461aftw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "大寮和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "251",
+                  "community_code": "8a81958c2d7cad12012d7d0e47a400tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "大樹和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "252",
+                  "community_code": "8a81958c2d7cad12012d7d0bfe7200tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "大社和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "253",
+                  "community_code": "8a81958c2d7cad12012d7d6f0b4e00tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "小港二苓和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "254",
+                  "community_code": "a2ca1c7a4be8420eb183bd4e5e5709tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "小港宏平和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "255",
+                  "community_code": "6d84b107ae344fcaacb924dea57df1tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "岡山和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "256",
+                  "community_code": "8140fc75e40148699f1515767c56bbtw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "左營一和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "257",
+                  "community_code": "8a81958c2d7cad12012d7d0fa96500tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "左營三和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "258",
+                  "community_code": "8a81958c2d7cad12012d7d0f8a1f00tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "左營二和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "259",
+                  "community_code": "8a818c04531afede01531b2fa02a00tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "後勁和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "260",
+                  "community_code": "4b97b93ed9624b11b29485c469e64dtw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "新興和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "261",
+                  "community_code": "8a81958c2d7cad12012d7d09644e00tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "旗山和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "262",
+                  "community_code": "8a81958c2d7cad12012d7d0e869c00tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "林園和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "263",
+                  "community_code": "30b82c45f190441bb8c0537aa4999atw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "楠梓和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "264",
+                  "community_code": "a7a3975d6a2447c384b6f424dc7191tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "橋頭和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "265",
+                  "community_code": "8a818c04531afede01531b20233000tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "湖內和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "266",
+                  "community_code": "738f2c1186e849c18b3f0900deaa4ftw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "苓雅喜捨和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "267",
+                  "community_code": "2bc9d83e5cb749059deaeba4e9fea8tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "苓雅市府和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "268",
+                  "community_code": "8a81958c2d7cad12012d7d6d963f00tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "苓雅文化和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "269",
+                  "community_code": "0eb12048c7694ca8b97218248cffd6tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "路竹和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "270",
+                  "community_code": "8a81958c2d7cad12012d7d0c8b2e00tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "鳥松和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "271",
+                  "community_code": "8a81958c2d7cad12012d7d0d685e00tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "鳳山五甲和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "272",
+                  "community_code": "8a81958c2d7cad12012d7d0d455900tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "鳳山和興和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "273",
+                  "community_code": "8a81958c2d7cad12012d7d0ce6ac00tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "鳳山文德和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "274",
+                  "community_code": "8a81958c2d7cad12012d7d0dbbe200tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "鳳山新甲和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "275",
+                  "community_code": "8a81958c2d7cad12012d7d0cc4e600tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "鳳山瑞興和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "276",
+                  "community_code": "8a81958c2d7cad12012d7d17cdb800tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "鹽埕前金和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "277",
+                  "community_code": "145e821bf6e44c09b8984d04b8d4f1tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "鼓山一和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "278",
+                  "community_code": "8a81958c2d7cad12012d7d16d09c00tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "鼓山三和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                },
+                {
+                  "community_id": "279",
+                  "community_code": "8a81958c2d7cad12012d7d15d14600tw",
+                  "parent_community_code": "b3d65695761749e993b26e0909efa3tw",
+                  "level": "3",
+                  "title": "鼓山二和氣",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                }
+              ]
+            },
+            {
+              "community_id": "280",
+              "community_code": "2yyqe10ih70uam1k9z8gbf4b4q4275in",
+              "parent_community_code": "17pw0jbwa4p0jou4adt5uz7n7kc3y7ik",
+              "level": "2",
+              "title": "志業體",
+              "created_at": "2023-12-22 11:07:14",
+              "child": [
+                {
+                  "community_id": "281",
+                  "community_code": "xnape50s2t8xe39ihx2gok3jk8fmevgx",
+                  "parent_community_code": "2yyqe10ih70uam1k9z8gbf4b4q4275in",
+                  "level": "3",
+                  "title": "基金會",
+                  "created_at": "2023-12-22 11:07:14",
+                  "child": []
+                }
+              ]
+            }
+]        

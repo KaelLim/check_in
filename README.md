@@ -34,9 +34,3 @@
 1. 確保伺服器有足夠權限寫入檔案。
 2. 如果 `upload.php` 顯示“資料保存失敗”，請檢查目錄權限和磁碟空間。
 3. 確保所有依賴項已透過 Composer 安裝。
-
-## 聯絡資訊
-如有任何問題，請透過以下方式與我聯絡：
-
-- 信箱: [your-email@example.com]
-- GitHub: [your-github-profile]
